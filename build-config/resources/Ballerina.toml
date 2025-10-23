@@ -1,0 +1,13 @@
+[package]
+distribution = "2201.12.0"
+org = "ballerinax"
+name = "azure.ai.search"
+version = "@toml.version@"
+license = ["Apache-2.0"]
+authors = ["Ballerina"]
+keywords = ["AI/Search", "Azure", "Cognitive Search", "Azure AI Search"]
+icon = "icon.png"
+repository = "https://github.com/ballerina-platform/module-ballerinax-azure.ai.search"
+
+[build-options]
+observabilityIncluded = true
