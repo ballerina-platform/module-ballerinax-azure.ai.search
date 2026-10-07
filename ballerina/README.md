@@ -1,9 +1,3 @@
-# Ballerina Azure AI Search connector
-
-[![Build](https://github.com/ballerina-platform/module-ballerinax-azure.ai.search/actions/workflows/ci.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-azure.ai.search/actions/workflows/ci.yml)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-azure.ai.search.svg)](https://github.com/ballerina-platform/module-ballerinax-azure.ai.search/commits/master)
-[![GitHub Issues](https://img.shields.io/github/issues/ballerina-platform/ballerina-library/module/azure.ai.search.svg?label=Open%20Issues)](https://github.com/ballerina-platform/ballerina-library/labels/module%azure.ai.search)
-
 ## Overview
 
 [Azure AI Search](https://azure.microsoft.com/products/ai-services/ai-search/) is a cloud search service that provides developers with infrastructure, APIs, and tools for building rich search experiences over private, heterogeneous content in web, mobile, and enterprise applications.
